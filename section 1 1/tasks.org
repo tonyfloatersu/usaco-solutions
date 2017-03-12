@@ -1,0 +1,10 @@
+* tasks for question 3
+** first the input file process
+** then greedy algorithm deal with
+
+* tasks for question 4
+** first read through the question
+*** write the program to compute the frequency that:
+	13th of each month land on 7 days a week over a period of N years
+	from january 1, 1900 -> monday
+	to 1900 + N - 1 for N years
