@@ -1,6 +1,0 @@
-* about maze1
-** first we find the maze can be expressed into strings, trying to show that there are walls
-** then we find the entrance and expressed it here
-** then we need a dfs to show the steps from the entrance
-*** we block a entrance and show with another entrance
-*** then from the second entrance trace back to set it 1

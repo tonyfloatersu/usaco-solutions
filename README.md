@@ -1,4 +1,4 @@
-# USACO-SOLUTIOINS
+# USACO-SOLUTIONS
 
 Here are my solutions for USACO in winter.
 
